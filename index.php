@@ -1,6 +1,7 @@
 <?php
 /*
 Documentation link mpdf::  https://packagist.org/packages/mpdf/mpdf
+composer install for vendor folder
 Version support::
 PHP 7.3 is supported since mPDF v7.1.7
 PHP 7.4 is supported since mPDF v8.0.4
